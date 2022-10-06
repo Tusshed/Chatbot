@@ -1,0 +1,14 @@
+#root {
+    background-color: silver;
+}
+
+#tab {
+    /* overflow: auto;
+    flex-grow: 1;
+    */
+    background-color: thistle;
+}
+
+#create {
+    margin-top: 10px;
+}
